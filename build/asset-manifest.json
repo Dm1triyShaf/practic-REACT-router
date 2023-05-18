@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/practic-REACT-router/static/css/main.5a1c8d59.css",
+    "main.js": "/practic-REACT-router/static/js/main.d3a7f15b.js",
+    "index.html": "/practic-REACT-router/index.html",
+    "main.5a1c8d59.css.map": "/practic-REACT-router/static/css/main.5a1c8d59.css.map",
+    "main.d3a7f15b.js.map": "/practic-REACT-router/static/js/main.d3a7f15b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a1c8d59.css",
+    "static/js/main.d3a7f15b.js"
+  ]
+}
