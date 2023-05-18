@@ -7,7 +7,7 @@
 #### http://localhost:3000/courses?sort=title - сортировка по title
 #### http://localhost:3000/courses?sort=slug - сортировка по slug
 # Запуск
-### 1 Скачать проект;
-### 2 npm i;
-### 3 npm start;
+### 1. Скачать проект;
+### 2. npm i;
+### 3. npm start;
 
